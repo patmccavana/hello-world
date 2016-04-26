@@ -1,2 +1,3 @@
 # hello-world
-ideas re med phys
+branch of ideas re med phys
+interactions of python with dose
